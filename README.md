@@ -1,4 +1,3 @@
-"# linear_regression" 
 # Linear Regression Model for Predicting Car Prices
 
 ## Overview
@@ -17,25 +16,6 @@ This repository contains Python code for a linear regression model to predict ca
 - pandas
 - matplotlib
 
-## Usage
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/fkaan/linear_regression.git
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the script:**
-
-    ```bash
-    python linear_regression_model.py
-    ```
 
 ## Dataset
 
