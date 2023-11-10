@@ -26,7 +26,7 @@ def feature_matrix(year, km_driven, fuel_type, seller_type, transmission, owner)
     return feature_matrix
 
 
-train = pd.read_csv("C:/Users/fkaan/OneDrive/Masaüstü/Okul/Machine Learning/Linear Regression/trainData.csv")
+train = pd.read_csv("Linear Regression/trainData.csv")
 
 # features 
 year = train["year"]
