@@ -80,7 +80,7 @@ for alpha in alpha_values:
     
     plt.plot(range(len(cost_history)), cost_history, label=f'Alpha = {alpha}')
 
-# Plot
+# plotting
 plt.xlabel('Iterations')
 plt.ylabel('Cost J')
 plt.title('Cost values')
