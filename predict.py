@@ -60,7 +60,7 @@ def gradient_descent(X, y, theta, learning_rate, num_iterations):
 
     return theta, cost_history
 
-# initializationa
+# initialization
 theta_initial = [0] * X.shape[1]
 
 # target variable
