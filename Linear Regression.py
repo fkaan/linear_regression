@@ -46,7 +46,7 @@ def cost_func(X, y, theta):
     h = X @ theta
     J = (1 / (2 * m)) * sum((h - y) ** 2)
     return J
-
+#gradient descent
 def gradient_descent(X, y, theta, alpha, iteration):
     m = len(y)
     cost_history = []
