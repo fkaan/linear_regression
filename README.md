@@ -15,7 +15,7 @@ This repository contains Python code for a linear regression model to predict ca
 - Python 3.x
 - pandas
 - matplotlib
-
+- seaborn
 
 ## Dataset
 
